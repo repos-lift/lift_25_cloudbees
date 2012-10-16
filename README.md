@@ -11,7 +11,7 @@ It is handy for ajax/comet applications, and is "full stack" (ie comes with pret
 <img src="http://upload.wikimedia.org/wikipedia/en/8/85/Scala_logo.png"/>
 
 
-This ClickStart bootstraps you with a working lift 2.5-M1 web application, a database, a source repository 
+This ClickStart bootstraps you with a working [Lift 2.5-M1](http://liftweb.net/25_m1) web application, a database, a source repository 
 (populated, ready to go), a Jenkins build service running continuous deployment from the source repository
 (push a change, your project will be built and deployed). 
 
