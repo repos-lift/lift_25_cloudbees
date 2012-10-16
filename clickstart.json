@@ -4,7 +4,7 @@
     "source": "git://github.com/repos-lift/lift_25_cloudbees.git",
     "description" : "A powerful, secure framework for interactive, scalable web applications",
     "doc-url" : "https://github.com/repos-lift/lift_25_cloudbees/blob/master/README.md",
-    "icon" : "https://github.com/repos-lift/lift_25_cloudbees/blob/master/icon.png",
+    "icon" : "https://github.com/repos-lift/lift_25_cloudbees/blob/master/icon.png"
     //"app-package": "https://s3.amazonaws.com/cloudbees-downloads/clickstart/lift_template.war",
     "runtime": {
         "type": "tomcat"
