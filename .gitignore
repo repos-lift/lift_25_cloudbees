@@ -14,12 +14,12 @@ derby.log
 # eclipse conf file
 .settings
 .classpath
-.project
+#.project
 .manager
 
 # building
 target
-build
+#build
 null
 tmp*
 dist
@@ -29,8 +29,8 @@ test-output
 target
 lib_managed
 src_managed
-*/project/boot
-*/*/project/boot
+#*/project/boot
+#*/*/project/boot
 
 # db
 lift_proto*
