@@ -6,6 +6,7 @@ syntax: glob
 *.bak
 *.off
 *.old
+*.log
 .DS_Store
 
 # logs
